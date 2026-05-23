@@ -14,6 +14,7 @@ Learning Solidity with the goal of becoming a Code4rena warden.
 
 ## DeFi Projects
 - Project 1: Token Tracker
+- Project 2: Lending Pool
 
 ## Resources
 - CryptoZombies
