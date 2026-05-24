@@ -11,10 +11,12 @@ Learning Solidity with the goal of becoming a Code4rena warden.
 - Project 3: Music Playlist
 - Project 4: Members Only Blog
 - Project 5: DAO Voting System
+- Project 6: DAO for Lending Pool
 
 ## DeFi Projects
 - Project 1: Token Tracker
 - Project 2: Lending Pool
+- Project 3: DAO for Lending Pool
 
 ## Resources
 - CryptoZombies
