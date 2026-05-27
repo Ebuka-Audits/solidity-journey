@@ -46,9 +46,7 @@ Loans are overcollateralized to protect protocol solvency.
 
 Interest accrues over time based on borrowed principal:
 
-\[
-Interest = \frac{r \cdot P \cdot t}{10000 \cdot 365\ days}
-\]
+Interest = (r × P × t) / (10000 × 365 days)
 
 Where:
 - P = borrowed principal
@@ -173,14 +171,15 @@ It has NOT been audited and should NOT be used with real funds.
 - Multi-asset collateral support
 - Advanced interest indexing system
 - Incentivized liquidations
+- Intrest on Deposits
 
 ---
 
 # Tech Stack
 
 - Solidity ^0.8.x
-- Custom Ownable contract
-- Custom ReentrancyGuard
+- OpenZepellin Ownable contract
+- OpenZepellin ReentrancyGuard
 
 ---
 
